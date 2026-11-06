@@ -56,7 +56,7 @@ I used NotebookLM to analyze these resources and provide source-grounded career 
 ![Career plan example](screenshots/career-plan.png)
 
 ## 5. Testing and Improving My Assistant
-**Original prompt:** [Insert prompt]
+**Original prompt:** 
 
 **Improved prompt:** [Insert revised prompt]
 
@@ -85,10 +85,22 @@ As good of a tool artificial intelligence is when given sources to help generate
 
 
 ## 8. Reflection
-1. What was the most useful thing my AI coach did?
+1. What was the most useful thing my AI coach did?'
+   
+   
 2. What was one limitation or mistake I discovered?
+   Responses don't always work as expected.
+   Even with the proper setup and prompting it wont necessary hallucinate,
+   but the response might not be as expected and straightforward.
+   
 3. How could this assistant help someone in a real job?
-4. What would I improve in a future version?
+   It's a good collaborator. One thing I've learned is how good in feedback the coach is.
+   Using it beyond the lessons to brainstorm ideas to improve my resume, and brainstorm ideas
+   on how to develop my personal portfolio
+   
+5. What would I improve in a future version?
+   In the future having gone through the lessons I'll have details defined before prompting.
+   Having a role, tone, etc. established to get the LM to structure how it'll respond before hand.
 
 ## 9. Skills Demonstrated
 - Prompt engineering
