@@ -24,10 +24,9 @@ And that's what makes it a great tool because you can make it cater to your need
 
 ## 3. How My AI Career Coach Works
 I curated resources including:
-Job listings
+
 - [AEG](https://www.teamworkonline.com/)
 - [Vsolvit](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=267cfc8f-e6d3-499b-8a38-c6abe8ee3d82&ccId=19000101_000001&type=JS&lang=en_US&source=LI&selectedMenuKey=CurrentOpenings)
-Articles
 - [Hiring Tool Article](https://www.aclu.org/news/womens-rights/why-amazons-automated-hiring-tool-discriminated-against)
 
 I used NotebookLM to analyze these resources and provide source-grounded career guidance.
