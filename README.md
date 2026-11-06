@@ -69,7 +69,9 @@ As good of a tool artificial intelligence is when given sources to help generate
 
 ## 7. My 30/60/90-Day Career Plan
 **30 days:**
-<img width="490" height="755" alt="image" src="https://github.com/user-attachments/assets/d908499e-313f-4598-8e1d-a25d5363594e" />
+
+<img width="785" height="601" alt="image" src="https://github.com/user-attachments/assets/80c84ea8-d1f1-4f38-afa3-9d377c18bbc7" />
+<img width="782" height="885" alt="image" src="https://github.com/user-attachments/assets/86798442-90dd-4b26-8989-7916248000f1" />
 
 
 ## 8. Reflection
