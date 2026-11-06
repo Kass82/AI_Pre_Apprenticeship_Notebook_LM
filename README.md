@@ -4,7 +4,7 @@
 My goal with the AI career coach is to improve prompting,
  and to be aided with finding and working towards a career path.
 
-**Career pathway:** [Software Engineering]
+**Career pathway:** `Software Engineering`
 
 **Built with:** Google NotebookLM
 
