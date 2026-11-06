@@ -26,7 +26,7 @@ And that's what makes it a great tool because you can make it cater to your need
 I curated resources including:
 - [Career resource or guide]
 - [AEG](https://www.teamworkonline.com/)
-- [Interview preparation resource]
+- [Hiring Tool Article](https://www.aclu.org/news/womens-rights/why-amazons-automated-hiring-tool-discriminated-against)
 
 I used NotebookLM to analyze these resources and provide source-grounded career guidance.
 
