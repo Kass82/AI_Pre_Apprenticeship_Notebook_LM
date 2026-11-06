@@ -17,6 +17,7 @@ And I benefited to not just prepping me to be career and interview ready.
 The way I utlizied AI was to figure out what path I wanted to pursue.
 
 `Why would someone benefit from this tool?`
+
 Apart from AI being a good research tool it's great with personalization. 
 Not everyone will have the same questions/focus/goals. 
 And that's what makes it a great tool because you can make it cater to your needs.
@@ -24,7 +25,7 @@ And that's what makes it a great tool because you can make it cater to your need
 ## 3. How My AI Career Coach Works
 I curated resources including:
 - [Career resource or guide]
-- [Target job description]
+- [AEG](https://www.teamworkonline.com/)
 - [Interview preparation resource]
 
 I used NotebookLM to analyze these resources and provide source-grounded career guidance.
@@ -75,7 +76,7 @@ AI can also tend to hallucinate, in which it'll make up something that is not th
 
 As good of a tool artificial intelligence is when given sources to help generate output/responses. It is important to understand what is valid data vs invalid data. In terms of legality and safety we should avoid providing personal information (whether our own or someone else's) and we should avoid providing code/databases to ai.  
 
-## 7. My 30/60/90-Day Career Plan
+## 7. My 30-Day Career Plan
 **30 days:**
 
 <img width="785" height="601" alt="image" src="https://github.com/user-attachments/assets/80c84ea8-d1f1-4f38-afa3-9d377c18bbc7" />
