@@ -40,8 +40,9 @@ I used NotebookLM to analyze these resources and provide source-grounded career 
 **What the AI helped me understand:**
 [2–3 sentences]
 
-![Career guidance example](<img width="798" height="637" alt="image" src="https://github.com/user-attachments/assets/de428efe-c443-4be7-9a5a-85d2ecf677d3" />
-)
+<img width="798" height="637" alt="image" src="https://github.com/user-attachments/assets/b3398d6a-c3af-48b4-abcf-240b9dfe37c2" />
+<img width="812" height="498" alt="image" src="https://github.com/user-attachments/assets/d8067044-f839-4476-b635-ff276900fc5c" />
+
 
 ### Example 2: Mock Interview
 **My prompt:** [Insert prompt]
