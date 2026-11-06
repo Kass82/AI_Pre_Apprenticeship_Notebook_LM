@@ -35,11 +35,13 @@ I used NotebookLM to analyze these resources and provide source-grounded career 
 
 ### Example 1: Career Guidance
 **My prompt:** [Insert prompt]
+<img width="1161" height="361" alt="image" src="https://github.com/user-attachments/assets/db900672-bd9e-42d3-90bf-d58e9bc4372e" />
 
 **What the AI helped me understand:**
 [2–3 sentences]
 
-![Career guidance example](screenshots/career-guidance.png)
+![Career guidance example](<img width="798" height="637" alt="image" src="https://github.com/user-attachments/assets/de428efe-c443-4be7-9a5a-85d2ecf677d3" />
+)
 
 ### Example 2: Mock Interview
 **My prompt:** [Insert prompt]
