@@ -42,6 +42,7 @@ I used NotebookLM to analyze these resources and provide source-grounded career 
 
 <img width="798" height="637" alt="image" src="https://github.com/user-attachments/assets/b3398d6a-c3af-48b4-abcf-240b9dfe37c2" />
 <img width="812" height="498" alt="image" src="https://github.com/user-attachments/assets/d8067044-f839-4476-b635-ff276900fc5c" />
+<img width="860" height="407" alt="image" src="https://github.com/user-attachments/assets/412d118d-74ac-4c8a-95e7-51b40a9897f0" />
 
 
 ### Example 2: Mock Interview
