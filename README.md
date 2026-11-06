@@ -51,7 +51,8 @@ I used NotebookLM to analyze these resources and provide source-grounded career 
 **Improved prompt:** [Insert revised prompt]
 
 **What changed and why:**
-[Explain the difference]
+I notice I often tend to write out a straight to the point prompt. 
+In which I'll leave out details that can help improve 
 
 ## 6. Responsible AI
 `How did I check the AI's output for accuracy, bias, or misleading information?`
@@ -67,9 +68,9 @@ AI can also tend to hallucinate, in which it'll make up something that is not th
 As good of a tool artificial intelligence is when given sources to help generate output/responses. It is important to understand what is valid data vs invalid data. In terms of legality and safety we should avoid providing personal information (whether our own or someone else's) and we should avoid providing code/databases to ai.  
 
 ## 7. My 30/60/90-Day Career Plan
-**30 days:** [Action]
-**60 days:** [Action]
-**90 days:** [Action]
+**30 days:**
+<img width="490" height="755" alt="image" src="https://github.com/user-attachments/assets/d908499e-313f-4598-8e1d-a25d5363594e" />
+
 
 ## 8. Reflection
 1. What was the most useful thing my AI coach did?
