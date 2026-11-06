@@ -54,14 +54,16 @@ I used NotebookLM to analyze these resources and provide source-grounded career 
 [Explain the difference]
 
 ## 6. Responsible AI
-[How did I check the AI's output for accuracy, bias, or misleading information?]
+`How did I check the AI's output for accuracy, bias, or misleading information?`
+
 Despite artificial intelligence having come a long way as if it were Wikipedia it is always important to verify and review responses given by AI. It can unintentionally give misleading information or provide bias information.  
 
 In the past there has been cases where AI models provide a negative biased output. This is caused by the data it was given to train it's model on. Which could lead to prompts that will cater to the dataset it was given, for example when amazon feed resumes based on their (at the time) workplace, which resulted to women being looked past for roles. To combat this, it is not necessary to be an expert in different areas but when prompting ensure that any possible bias is avoided.
 
 AI can also tend to hallucinate, in which it'll make up something that is not there. And to avoid this or ensure that the LM is not hallucinating, it is good to double check the response to ensure the information is accurate and not made up. 
 
-[What information should never be shared with this assistant?]
+`What information should never be shared with this assistant?`
+
 As good of a tool artificial intelligence is when given sources to help generate output/responses. It is important to understand what is valid data vs invalid data. In terms of legality and safety we should avoid providing personal information (whether our own or someone else's) and we should avoid providing code/databases to ai.  
 
 ## 7. My 30/60/90-Day Career Plan
