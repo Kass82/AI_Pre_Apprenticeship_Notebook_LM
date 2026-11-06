@@ -1,17 +1,25 @@
 # AI Apprenticeship: Career Coach
 
 ## 1. Project Overview
-My goal with the AI career coach is to improve prompting,
- and to be aided with finding and working towards a career path.
+My goal with the AI career coach is to improve prompting, 
+and to be aided with finding and working towards a career path.
 
 **Career pathway:** `Software Engineering`
 
 **Built with:** Google NotebookLM
 
 ## 2. The Problem I'm Solving
-What career challenge inspired this assistant?
+`What career challenge inspired this assistant?`
 
-Why would someone benefit from this tool?
+Initially I had no career path in mind. I was going with the flow. 
+However we were being introduced to use AI as a career coach.
+And I benefited to not just prepping me to be career and interview ready.
+The way I utlizied AI was to figure out what path I wanted to pursue.
+
+`Why would someone benefit from this tool?`
+Apart from AI being a good research tool it's great with personalization. 
+Not everyone will have the same questions/focus/goals. 
+And that's what makes it a great tool because you can make it cater to your needs.
 
 ## 3. How My AI Career Coach Works
 I curated resources including:
